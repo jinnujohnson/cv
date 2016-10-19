@@ -1,4 +1,4 @@
-# CV - JInnu Johnson 
+# CV - Jinnu Johnson 
 
 I am a software developer who likes writing PHP and RUBY programs. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing programs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. I am currently learning RUBY and finding it really fun.
 
@@ -36,7 +36,7 @@ I have been working on a variety of projects for clients, using the following te
 
 
 ####Software Engineer (September 2015 - Present)
-- Working with **Vyus technologia LLP**, an IT firm working under Kerala Startup Mission at Technopark. A very nice platform for fresher graduate to learn.
+- Working with **Vyus technologia LLP**, an IT firm working under Kerala Startup Mission at Technopark, Trivandrum. A very nice platform for fresher graduate to learn.
 - Work mainly on case management projects, developing for top law firms in India.
 - Completing projects from start to finish by collaborating with small teams.
 
