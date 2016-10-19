@@ -24,31 +24,18 @@ I have been working on a variety of projects for clients, using the following te
 
 ---
 ###PROJECTS
-- [Connected Homes](http://www.xcomfort.no)
-- [D3 map](https://orbitzfeatures.waveinteractive.com/features/100-years-of-national-park-service/)
-- [Workspace Annual Report](http://www.workspace.co.uk/onlineannualreport2016/)
-- [Automation Tool](https://github.com/Neats29/ultimate-banner-builder)
-- [Photo ID App](projects/photoId.md)
-- [Map App for Local Businesses](projects/map.md) - close source
-- [A production-Process Management Tool](projects/productivity.md)
-- [Puzzle for Toddlers](projects/puzzle.md)
-- [React.js Unit Converter](http://neats29.github.io/React-Unit-Converter/pub/)
-- [Education App](http://pajoa.herokuapp.com/)
+- Casestringer - A case management system for Lawyers, product of Vus Technologia LLP
+- Case Management Solution for Kerala Forest Department
+- [Alhaneennursery.com](http://www.alhaneennursery.com/)
+- [Perfectmovers.org](www.perfectmovers.org)
 
-####SOME OPEN SOURCE CONTRIBUTIONS / OTHER
-- [Talk on Vim](http://slides.com/anitaamini/intro-to-vim-land#)
-- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
-- [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
-- [DuckDuckGo](https://github.com/duckduckgo/zeroclickinfo-goodies)
 
----
 
 ###EXPERIENCE
 
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
-####Associate Web Developer (Jan 2016 - Present)
+####Software Engineer (September 2015 - Present)
 - Work mainly on greenfield projects, developing for top agencies in the UK. 
 - Completing projects from start to finish, alone and in small teams.
 - Being sent out to agencies to start or work on existing projects.
@@ -56,7 +43,7 @@ I have been working on a variety of projects for clients, using the following te
 - Play ping pong after work :)
 
 ===
-<img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
+img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
 
 ####Web Developer (Aug 2015 - Nov 2015) 4-Month Contract 
 - Worked on a confidential localisation project for one of the biggest tech companies in the world.
