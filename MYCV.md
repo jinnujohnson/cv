@@ -24,7 +24,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ---
 ###PROJECTS
-- Casestringer - A case management system for Lawyers, product of Vus Technologia LLP
+- Casestringer - A case management tool for Lawyers, product of Vus Technologia LLP
 - Case Management Solution for Kerala Forest Department
 - [Alhaneennursery.com](http://www.alhaneennursery.com/)
 - [Perfectmovers.org](www.perfectmovers.org)
@@ -36,61 +36,26 @@ I have been working on a variety of projects for clients, using the following te
 
 
 ####Software Engineer (September 2015 - Present)
-- Work mainly on greenfield projects, developing for top agencies in the UK. 
-- Completing projects from start to finish, alone and in small teams.
-- Being sent out to agencies to start or work on existing projects.
-- Write bespoke build tasks and complex scripts to automate processes used by other developers.
-- Play ping pong after work :)
-
-===
-img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
-
-####Web Developer (Aug 2015 - Nov 2015) 4-Month Contract 
-- Worked on a confidential localisation project for one of the biggest tech companies in the world.
-- I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality, maintainable code__, as well as __responsive design__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
-
-===
-<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
-
-####Full Stack Freelance Developer (Mar 2015 - Aug 2015)
-
-- Worked on MVPs and projects to create web applications for clients across Europe.
-
-#### 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
-
-- A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
-- As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__
-- I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
-
-===
-<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="260">
-
-#### Clinical Data Manager (May 2013 - Feb 2015)
-
-- Promoted from Clinical Trials Assistant at the MRC Clinical Trials Unit at UCL.
-- Worked on a number of observational studies and prospective cohorts of children and adults living with HIV.
-- UCL Athena SWAN committee member working to ensure gender equality in the STEM fields.
-- Member of the CTU Twitter committee, representing the unit on Twitter.
-
---- 
-
+- Working with **Vyus technologia LLP**, an IT firm working under Kerala Startup Mission at Technopark. A very nice platform for fresher graduate to learn.
+- Work mainly on case management projects, developing for top law firms in India.
+- Completing projects from start to finish by collaborating with small teams.
 
 ###EDUCATION
-- BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012) - Kingston University
+- MCA  (2008 - 2011) - MIIT, Ayur, Kerala University - **74%**
+- Bsc Computer Science  (2005 - 2008) - CAS IHRD, Mavelikara, Kerala University - **74%**
+- PLUS TWO  (2003 - 2005) - AMMHSS, Edayaranmula, Kerala Higher Secondary Board - **86%**
+- SSLC  (2003) - Kerala Board of Secondary - **84%**
+
 
 ---
 ###LINKS
 
-[LinkedIn](https://uk.linkedin.com/in/anitaamini) | [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com) |
-[Twitter](https://twitter.com/neats29) | [Codewars](http://www.codewars.com/users/Neats29)
+[LinkedIn](https://in.linkedin.com/in/jinnu-johnson-4ab03b98) | [Facebook](https://www.facebook.com/jinnu.johnson) | [Codecademy](https://www.codecademy.com/jinnu#completed) | [Github](https://github.com/jinnujohnson)
 
 ---
-###INTERESTS
+###HOBBIES AND INTERESTS
 * Learning
-* Climbing
-* Internet Privacy
-* Documentaries
-* Food Science
-* Music Production
-* Theoretical Physics
-
+* Solving [Exercism](http://exercism.io/jinnujohnson) problems
+* Web Browsing
+* Cooking
+* Hearing Music
