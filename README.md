@@ -1,3 +1,3 @@
 #READ ME
 
-CV Of Jinnu Johnson
+CV of Jinnu Johnson
