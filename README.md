@@ -1,4 +1,4 @@
-# CV - Jinnu Johnson 
+# CV - Jinnu Johnson
 
 I am a software developer who likes writing PHP and RUBY programs. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing programs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. I am currently learning RUBY and finding it really fun.
 
@@ -10,16 +10,16 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 I have been working on a variety of projects for clients, using the following technologies:
 
-| Languages etc | Frameworks/Libraries | Tools/Others | Databases 
+| Languages etc | Frameworks/Libraries | Tools/Others | Databases
 |:---------:|:--------------------:|:---------:|:------------
 | PHP| CodeIgniter             | Git          | MySQL|
 | RUBY   | jQuery             | Github        |  |
-| HTML5     | Bootstrap       | Bitbucket  | 
-| CSS3     |              |Linux :Ubuntu | 
-| JAVASCRIPT      |       |   | 
-| Markdown  |                 | 
-| SQL         |            |      | 
-| C, C++         |        |          | 
+| HTML5     | Bootstrap       | Bitbucket  |
+| CSS3     |              |Linux :Ubuntu |
+| JAVASCRIPT      |       |XAMPP  |
+| Markdown  |                 |LAMP
+| SQL         |            |      |
+| C, C++         |        |          |
 
 
 ---
