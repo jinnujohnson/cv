@@ -16,8 +16,8 @@ I have been working on a variety of projects for clients, using the following te
 | RUBY   | jQuery             | Github        |  |
 | HTML5     | Bootstrap       | Bitbucket  | 
 | CSS3     |              |Linux :Ubuntu | 
-| JAVASCRIPT      |       |   | 
-| Markdown  |                 | 
+| JAVASCRIPT      |       |XAMPP | 
+| Markdown  |                 | LAMP
 | SQL         |            |      | 
 | C, C++         |        |          | 
 
