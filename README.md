@@ -24,7 +24,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ---
 ###PROJECTS
-- Casestringer - A case management tool for Lawyers, product of Vus Technologia LLP
+- Casestringer - A case management tool for Lawyers, product of Vyus Technologia LLP
 - Case Management Solution for Kerala Forest Department
 - [Alhaneennursery.com](http://www.alhaneennursery.com/)
 - [Perfectmovers.org](www.perfectmovers.org)
