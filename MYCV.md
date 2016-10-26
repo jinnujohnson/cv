@@ -1,3 +1,4 @@
+![jinnu](/home/jinnu/Desktop/jinnu.jpeg  "jinnupic") 
 # CV - Jinnu Johnson 
 
 I am a software developer who likes writing PHP and RUBY programs. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing programs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. I am currently learning RUBY and finding it really fun.
@@ -24,7 +25,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ---
 ###PROJECTS
-- Casestringer - A case management tool for Lawyers, product of Vus Technologia LLP
+- Casestringer - A case management tool for Lawyers, product of Vyus Technologia LLP
 - Case Management Solution for Kerala Forest Department
 - [Alhaneennursery.com](http://www.alhaneennursery.com/)
 - [Perfectmovers.org](www.perfectmovers.org)
